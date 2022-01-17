@@ -1,0 +1,9 @@
+c:\users\avargas\documents\visual studio 2015\Projects\WFALongestSkiRun\WFALongestSkiRun\bin\Debug\WFALongestSkiRun.exe.config
+C:\Users\avargas\documents\visual studio 2015\Projects\WFALongestSkiRun\WFALongestSkiRun\bin\Debug\WFALongestSkiRun.exe
+C:\Users\avargas\documents\visual studio 2015\Projects\WFALongestSkiRun\WFALongestSkiRun\bin\Debug\WFALongestSkiRun.pdb
+C:\Users\avargas\documents\visual studio 2015\Projects\WFALongestSkiRun\WFALongestSkiRun\obj\Debug\WFALongestSkiRun.csprojResolveAssemblyReference.cache
+C:\Users\avargas\documents\visual studio 2015\Projects\WFALongestSkiRun\WFALongestSkiRun\obj\Debug\WFALongestSkiRun.FormLongestSkiRun.resources
+C:\Users\avargas\documents\visual studio 2015\Projects\WFALongestSkiRun\WFALongestSkiRun\obj\Debug\WFALongestSkiRun.Properties.Resources.resources
+C:\Users\avargas\documents\visual studio 2015\Projects\WFALongestSkiRun\WFALongestSkiRun\obj\Debug\WFALongestSkiRun.csproj.GenerateResource.Cache
+C:\Users\avargas\documents\visual studio 2015\Projects\WFALongestSkiRun\WFALongestSkiRun\obj\Debug\WFALongestSkiRun.exe
+C:\Users\avargas\documents\visual studio 2015\Projects\WFALongestSkiRun\WFALongestSkiRun\obj\Debug\WFALongestSkiRun.pdb
